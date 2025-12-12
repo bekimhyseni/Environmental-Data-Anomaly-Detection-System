@@ -36,7 +36,7 @@ Elliptic Envelope: Robust covariance estimation for outlier detection\
 DBSCAN: Density-based clustering for anomaly identification\
 Statistical Methods: Z-score based threshold detection
 
-📈 Interactive Visualizations
+ Interactive Visualizations
 
 Time Series Plots: Interactive Plotly charts with anomaly highlighting\
 Score Distributions: Histogram analysis of anomaly scores\
