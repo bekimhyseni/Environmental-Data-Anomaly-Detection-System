@@ -8,7 +8,7 @@ Email: bekim_hyseni@hotmail.fr
 
 LinkedIn: https://ch.linkedin.com/in/bekim-hyseni
 
-📊 Dataset
+ Dataset
 
 **Source**: Air Quality Data from UCI Machine Learning Repository
 
@@ -20,7 +20,7 @@ LinkedIn: https://ch.linkedin.com/in/bekim-hyseni
 
 ## Key Features
 
-🔧 Advanced Data Processing
+ Advanced Data Processing
 
 Smart Type Detection: Automatically identifies numeric, date, and categorical columns\
 Missing Value Handling: Multiple imputation strategies (median, mean, forward-fill)\
@@ -29,7 +29,7 @@ Data Smoothing: Rolling average filters for noisy sensor data\
 Feature Scaling: StandardScaler and RobustScaler options\
 Validation Pipeline: Comprehensive data quality checks\
 
-🤖 Multiple Detection Algorithms
+ Multiple Detection Algorithms
 
 Isolation Forest: Tree-based ensemble method for anomaly detection\
 Elliptic Envelope: Robust covariance estimation for outlier detection\
@@ -44,7 +44,7 @@ Feature Importance: Cohen's d effect size analysis\
 Correlation Heatmaps: Feature relationship analysis\
 Method Comparisons: Side-by-side algorithm performance
 
-🎨 Professional Dashboard
+ Professional Dashboard
 
 Real-time Processing: Live data analysis and visualization\
 Parameter Tuning: Interactive algorithm parameter adjustment\
